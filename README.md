@@ -97,7 +97,7 @@ python web_app.py
 - 📝 可加载MNIST数据集样本进行测试
 
 <div align="center">
-  <img src="image.png" width="600" style="border-radius:8px; border:1px solid #eee;">
+  <img src="image/web_demo.png" width="600" style="border-radius:8px; border:1px solid #eee;">
 </div>
 
 ## 训练模型
@@ -133,7 +133,7 @@ TensorBoard记录的内容：
 - Learning_Rate - 学习率变化曲线
 
 <div align="center">
-  <img src="image-1.png" width="600" alt="手写数字识别演示">
+  <img src="image/tensorboard_demo.png" width="600" alt="手写数字识别演示">
 </div>
 
 ## 模型架构
