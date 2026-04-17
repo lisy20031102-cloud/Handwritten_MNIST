@@ -132,11 +132,9 @@ TensorBoard记录的内容：
 - Accuracy/val - 验证准确率曲线
 - Learning_Rate - 学习率变化曲线
 
-
 <div align="center">
-  <img src="image-1.png" width="600" style="border-radius:8px; border:1px solid #eee;">
+  <img src="image-1.png" width="600" alt="手写数字识别演示">
 </div>
-
 
 ## 模型架构
 
