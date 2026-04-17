@@ -96,7 +96,9 @@ python web_app.py
 - 📊 各类别概率分布可视化
 - 📝 可加载MNIST数据集样本进行测试
 
-![alt text](image.png)
+<div align="center">
+  <img src="image.png" width="600" style="border-radius:8px; border:1px solid #eee;">
+</div>
 
 ## 训练模型
 
@@ -129,6 +131,12 @@ TensorBoard记录的内容：
 - Accuracy/train - 训练准确率曲线
 - Accuracy/val - 验证准确率曲线
 - Learning_Rate - 学习率变化曲线
+
+
+<div align="center">
+  <img src="image-1.png" width="600" style="border-radius:8px; border:1px solid #eee;">
+</div>
+
 
 ## 模型架构
 
