@@ -5,7 +5,7 @@
 
 ## 项目简介
 
-本项目是一个完整的MNIST手写数字识别解决方案，采用CNN（卷积神经网络）进行图像分类。项目设计注重教学演示目的，代码结构清晰，注释详细，适合初学者学习深度学习和计算机视觉。
+本项目是专为女朋友（xwt）入门深度学习打造的 MNIST 手写数字识别实战教学项目（零基础小白也可轻松入门），基于 Python、PyTorch 深度学习框架与 CNN 卷积神经网络构建，搭配 Flask 轻量级 Web 框架、TensorBoard 训练可视化工具。项目内置测试准确率达 99.13% 的预训练模型，支持一键完成模型评估、本地预测演示、浏览器手写画板实时识别等功能，提供完整的数据加载、数据增强、模型训练、参数配置、结果可视化全流程方案，能让小白快速体验手写数字识别的完整效果，逐步掌握 CNN 原理、PyTorch 实战、深度学习项目工程化与 Web 部署等核心技能。
 
 ## 项目目录结构
 
@@ -38,6 +38,7 @@ Handwriten_MNIST/
 
 ```bash
 # 克隆项目后安装依赖
+git clone https://github.com/lisy20031102-cloud/Handwritten_MNIST.git
 cd Handwriten_MNIST
 pip install -r requirements.txt
 ```
@@ -251,8 +252,5 @@ A: 确保已安装tensorboard: `pip install tensorboard`
 
 ## 作者
 
-项目创建用于教学目的。
-=======
-# Handwritten_MNIST
-本项目是MNIST手写数字识别教学案例，采用CNN模型架构，项目中包括了web可视化页面，tensorboard训练曲线日志。
->>>>>>> 0b933caf281957fc120431a94ee05d4952481fec
+项目创建用于教女朋友学习和实战，感兴趣的可以自取。
+========
