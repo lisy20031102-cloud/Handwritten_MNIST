@@ -96,6 +96,8 @@ python web_app.py
 - 📊 各类别概率分布可视化
 - 📝 可加载MNIST数据集样本进行测试
 
+![alt text](image.png)
+
 ## 训练模型
 
 如需重新训练模型：
