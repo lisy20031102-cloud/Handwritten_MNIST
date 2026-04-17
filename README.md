@@ -29,14 +29,7 @@ Handwriten_MNIST/
 │   ├── mnist_cnn_model.pth
 │   └── mnist_cnn_epoch_*.pth  # 各轮次模型
 └── results/               # 结果输出目录
-    ├── training_history.json   # 训练历史
-    ├── evaluation_results.json # 评估结果
-    ├── confusion_matrix.png    # 混淆矩阵
-    ├── per_class_accuracy.png  # 各类别准确率
-    ├── sample_predictions.png  # 样本预测图
-    ├── demo_results.png        # 演示结果
-    ├── single_prediction.png   # 单张预测结果
-    └── tensorboard/            # TensorBoard日志
+
 ```
 
 ## 环境配置
