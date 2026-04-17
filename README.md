@@ -1,0 +1,2 @@
+# Handwritten_MNIST
+本项目是MNIST手写数字识别教学案例，采用CNN模型架构，项目中包括了web可视化页面，tensorboard训练曲线日志。
