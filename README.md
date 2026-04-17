@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MNIST手写数字识别项目
 
 基于PyTorch和CNN卷积神经网络的MNIST手写数字识别项目。
@@ -250,3 +251,7 @@ A: 确保已安装tensorboard: `pip install tensorboard`
 ## 作者
 
 项目创建用于教学目的。
+=======
+# Handwritten_MNIST
+本项目是MNIST手写数字识别教学案例，采用CNN模型架构，项目中包括了web可视化页面，tensorboard训练曲线日志。
+>>>>>>> 0b933caf281957fc120431a94ee05d4952481fec
